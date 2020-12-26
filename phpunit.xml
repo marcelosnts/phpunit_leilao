@@ -8,9 +8,8 @@
         </testsuite>
     </testsuites>
 
-<!--
     <logging>
         <log type="testdox-text" target="testes-executados.txt"/>
     </logging>
--->
+
 </phpunit>
